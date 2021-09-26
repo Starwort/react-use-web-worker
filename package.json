@@ -1,0 +1,33 @@
+{
+  "name": "react-use-web-worker",
+  "version": "1.0.0",
+  "description": "Use web workers in React",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starwort/react-use-web-worker.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "worker"
+  ],
+  "author": "Starwort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starwort/react-use-web-worker/issues"
+  },
+  "homepage": "https://github.com/starwort/react-use-web-worker#readme",
+  "dependencies": {
+    "@types/react": "^17.0.24",
+    "react": "^17.0.2",
+    "typescript": "^4.4.3"
+  }
+}
